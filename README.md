@@ -4,7 +4,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a passionate % enthusiast Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a passionate & enthusiast Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m currently working on my [ Doc-Connect (MEAN Stack Project)](https://github.com/devanshu1010/MEAN_DocConnet.git).
 - 🌱 Exploring new technlogies which are comming day by day.
